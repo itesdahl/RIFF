@@ -1,5 +1,5 @@
 # The RIFF 600/900 3D printer
-![CAD model](render1.png)
+![CRIFF 600](RIFF600.jpg)
 
 You'll find the Youtube build series for the RIFF 600 here https://www.youtube.com/playlist?list=PLHk1C7nPAl80ZWU28OD7yWof3j6T3yG72  
 You can also find the published STLs on: https://www.printables.com/model/1291703-the-riff-large-3d-printer
@@ -55,3 +55,4 @@ Parts for the front and rear arms (heat bed sub assembly):
 
 > [!CAUTION]
 > On my 600 build the 2020 extrusions for the bed assembly is 2 pcs 645mm. You have to check the bed mounts on your heat bed to determine if you need longer extrusions.
+![CAD model](render1.png)
