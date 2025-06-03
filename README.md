@@ -6,7 +6,7 @@ You can also find the published STLs on: https://www.printables.com/model/129170
 
 This is a 300x600 (RIFF 600) or 300x900 (RIFF 900) size DIY printer that can be built without spending a fortune. I encourage the use of second hand parts and will not provide any complete BOM listing specific new components. 
 
-Some key information about my build:
+## Some key information about my build:
 
 Build plate 300 x 600 (assembly with 2 pcs 300x300 heat beds, 3 pcs in the 900) 
 2020 and 2040 extrusions 
@@ -22,7 +22,7 @@ Dragonburner with Sherpa micro
 2 x 360W 24V power supplies (3 x 360 24V in the 900 version)
 
 
-Design and frame:
+## Video part 1:
 
 Cutting extrusions:
 
@@ -38,19 +38,19 @@ Optional but recommended, tap Y-extrusions in both ends to provide for two extra
 Drill access holes in all Y-extrusions to get to the button head screws in the Z-extrusions
 Attach the front and rear corner plates. The front 2040 x extrusion should sit 40mm below the top of the Y-extrusion
 
-Next step:
+### Next step:
 
 Check the frame for squareness and adjust/correct  as needed.
 Mount the 4 z-motor mounts with M5 10mm bolts. The motor mounts makes the frame more rigid. Check the frame again for squareness.
 
---- Video part 2
+# Video part 2
 Parts for the front and rear arms (heat bed sub assembly):
 
 Front 1x366mm 2020 extrusion and 2x625 bearings
 
 Rear 1x322mm 2020 extrusion
 
---- Video part 3
+# Video part 3
 The 2020 extrusion for the x axis is 440mm
 
 On my 600 build the 2020 extrusions for the bed assembly is 2 pcs 645mm. You have to check the bed mounts on your heat bed to determine if you need longer extrusions.
