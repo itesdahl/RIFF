@@ -8,7 +8,7 @@ This is a 300x600 (RIFF 600) or 300x900 (RIFF 900) size DIY printer that can be 
 
 ## Some key information about my original build:
 
-- Build plate 300 x 600 (assembly with 2 pcs 300x300 heat beds, 3 pcs in the 900) 
+- Build plate 300 x 600 (assembly with 2 pcs 300x300 heat beds in the RIFF 600, 3 pcs in the RIFF 900) 
 - 2020 and 2040 extrusions 
 - SKR 1.4 turbo and SKR Pico controllerboards (use whatever you have that have enough drivers and can run Klipper)
 - Radxa Rock 3C SBC (or a Pi. SBC with 3-4 USB ports recommended)
