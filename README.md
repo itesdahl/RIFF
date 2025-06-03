@@ -7,7 +7,8 @@ You can also find the published STLs on: https://www.printables.com/model/129170
 This is a 300x600 (RIFF 600) or 300x900 (RIFF 900) size DIY printer that can be built without spending a fortune. I encourage the use of second hand parts and will not provide any complete BOM (listing specific new components/brands). 
 The prototype/PoC for the RIFF series is the LemonBreeze. That printer is wider and not as space efficient: https://www.youtube.com/playlist?list=PLHk1C7nPAl83ME56pqZpkaPyZSMLXAlih
 
-Future plans for this project will be to add Bondtech Indx. It should be a good fit for this frame.
+> [!NOTE]
+> Future plans for this project will be to add Bondtech Indx. It should be a good fit for this frame.
 
 ## Some key information about my original RIFF 600 build:
 
