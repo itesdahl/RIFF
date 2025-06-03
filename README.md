@@ -55,4 +55,6 @@ Parts for the front and rear arms (heat bed sub assembly):
 
 > [!CAUTION]
 > On my 600 build the 2020 extrusions for the bed assembly is 2 pcs 645mm. You have to check the bed mounts on your heat bed to determine if you need longer extrusions.
+
+
 ![CAD model](render1.png)
