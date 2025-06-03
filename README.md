@@ -21,7 +21,6 @@ Sensorless homing on X and Y
 Dragonburner with Sherpa micro 
 2 x 360W 24V power supplies (3 x 360 24V in the 900 version)
 
-I am publishing a build series on Youtube and will publish the required parts at the same time as the videos.
 
 Design and frame:
 
