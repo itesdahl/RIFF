@@ -8,7 +8,7 @@ This is a 300x600 (RIFF 600) or 300x900 (RIFF 900) size DIY printer that can be 
 The prototype/PoC for the RIFF series is the LemonBreeze. That printer is wider and not as space efficient: https://www.youtube.com/playlist?list=PLHk1C7nPAl83ME56pqZpkaPyZSMLXAlih
 
 > [!NOTE]
-> Future plans for this project will be to add Bondtech Indx. It should be a good fit for this frame.
+> Future plans for this project will be to add the Bondtech Indx. It should be a good fit for this frame.
 
 ## Some key information about my original RIFF 600 build:
 
