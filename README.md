@@ -11,8 +11,8 @@ This is a 300x600 (RIFF 600) or 300x900 (RIFF 900) size DIY printer that can be 
 
 - Build plate 300 x 600 (assembly with 2 pcs 300x300 heat beds, 3 pcs in the 900) 
 - 2020 and 2040 extrusions 
-- SKR 1.4 turbo and SKR Pico controllerboards (or whatever you have that have enough drivers and can run Klipper)
-- Radxa Rock 3C SBC (or a Pi. SBC with 3-4 USB ports recommended for (webcam/input shaper/eddy)
+- SKR 1.4 turbo and SKR Pico controllerboards (use whatever you have that have enough drivers and can run Klipper)
+- Radxa Rock 3C SBC (or a Pi. SBC with 3-4 USB ports recommended)
 - MGN 12H rails/carriage on Y and X. (350mm on X and 2x650 or 2x 950mm on Y)
 - 12mm rods and bearings on Z 
 - Cartesian (the belts are a bit too long for corexy) 
@@ -25,13 +25,13 @@ This is a 300x600 (RIFF 600) or 300x900 (RIFF 900) size DIY printer that can be 
 
 ## Video part 1:
 
-Cutting extrusions:
+### Cutting extrusions:
 
-4x2020 775mm for Y (or 1075mm for the 900 version)
-2x2020 450mm and 2x2040 450mm for X
-6x2040 340mm for Z (or optionally 370mm)
+- 4x2020 775mm for Y (or 1075mm for the 900 version)
+- 2x2020 450mm and 2x2040 450mm for X
+- 6x2040 340mm for Z (or optionally 370mm)
 
-Blind joints and corner plates plates:
+### Blind joints and corner plates plates:
 
 Tap M5 holes in all 6 2040 Z extrusions (or minimum 4 of them as shown in the video)
 Tap M5 holes in the top Y extrusion at least in one end. (The one facing the rear of the printer) 
@@ -46,12 +46,12 @@ Attach the front and rear corner plates. The front 2040 x extrusion should sit 4
 # Video part 2
 Parts for the front and rear arms (heat bed sub assembly):
 
-Front 1x366mm 2020 extrusion and 2x625 bearings
+- Front 1x366mm 2020 extrusion and 2x625 bearings
 
-Rear 1x322mm 2020 extrusion
+- Rear 1x322mm 2020 extrusion
 
 # Video part 3
-The 2020 extrusion for the x axis is 440mm
+- The 2020 extrusion for the x axis is 440mm
 
 > [!CAUTION]
 > On my 600 build the 2020 extrusions for the bed assembly is 2 pcs 645mm. You have to check the bed mounts on your heat bed to determine if you need longer extrusions.
