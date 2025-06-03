@@ -1,4 +1,4 @@
-# The RIFF 600/900 3D printer
+# The RIFF 600/900 DIY 3D printer
 ![CRIFF 600](RIFF600.jpg)
 
 You'll find the Youtube build series for the RIFF 600 here https://www.youtube.com/playlist?list=PLHk1C7nPAl80ZWU28OD7yWof3j6T3yG72  
