@@ -13,7 +13,7 @@ The prototype/PoC for the RIFF series is the LemonBreeze. That printer is wider 
 - 2020 and 2040 extrusions 
 - SKR 1.4 turbo and SKR Pico controllerboards (use whatever you have that have enough drivers and can run Klipper)
 - Radxa Rock 3C SBC (or a Pi. SBC with 3-4 USB ports recommended)
-- MGN 12H rails/carriage on Y and X. (350mm on X and 2x650 or 2x 950mm on Y)
+- MGN 12H rails/carriage on Y and X. (350mm on X and 2x650 RIFF 600 or 2x950mm RIFF 900 on Y)
 - 12mm rods and bearings on Z 
 - Cartesian (the belts are a bit too long for corexy) 
 - Klipper firmware 
