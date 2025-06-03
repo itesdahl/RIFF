@@ -38,8 +38,7 @@ Optional but recommended, tap Y-extrusions in both ends to provide for two extra
 Drill access holes in all Y-extrusions to get to the button head screws in the Z-extrusions
 Attach the front and rear corner plates. The front 2040 x extrusion should sit 40mm below the top of the Y-extrusion
 
-### Next step:
-
+[!TIP]
 Check the frame for squareness and adjust/correct  as needed.
 Mount the 4 z-motor mounts with M5 10mm bolts. The motor mounts makes the frame more rigid. Check the frame again for squareness.
 
