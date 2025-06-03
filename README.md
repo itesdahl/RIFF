@@ -5,14 +5,14 @@ This is the home of the RIFF 600 and 900 large DIY 3D printers.
 You'll find the Youtube build series here https://www.youtube.com/playlist?list=PLHk1C7nPAl80ZWU28OD7yWof3j6T3yG72  
 You can also find the published STLs on: https://www.printables.com/model/1291703-the-riff-large-3d-printer
 
-This is a 300x600 (RIFF 600) or 300x900 (RIFF 900) size DIY printer that can be built without spending a fortune. I encourage the use of second hand parts and will not provide any complete BOM listing specific new components. 
+This is a 300x600 (RIFF 600) or 300x900 (RIFF 900) size DIY printer that can be built without spending a fortune. I encourage the use of second hand parts and will not provide any complete BOM (listing specific new components/brands). 
 
 ## Some key information about my build:
 
 - Build plate 300 x 600 (assembly with 2 pcs 300x300 heat beds, 3 pcs in the 900) 
 - 2020 and 2040 extrusions 
-- SKR 1.4 turbo and SKR Pico controllerboards 
-- Radxa Rock 3C SBC 
+- SKR 1.4 turbo and SKR Pico controllerboards (or whatever you have that have enough drivers and can run Klipper)
+- Radxa Rock 3C SBC (or a Pi. SBC with 3-4 USB ports recommended for (webcam/input shaper/eddy)
 - MGN 12H rails/carriage on Y and X. (350mm on X and 2x650 or 2x 950mm on Y)
 - 12mm rods and bearings on Z 
 - Cartesian (the belts are a bit too long for corexy) 
