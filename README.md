@@ -4,7 +4,9 @@
 You'll find the Youtube build series for the RIFF 600 here https://www.youtube.com/playlist?list=PLHk1C7nPAl80ZWU28OD7yWof3j6T3yG72  
 You can also find the published STLs on: https://www.printables.com/model/1291703-the-riff-large-3d-printer
 
-This is a 300x600 (RIFF 600) or 300x900 (RIFF 900/900w) size DIY printer that can be built without spending a fortune. The RIFF 900w is a slightly wider/taller version with more room for modifications on the x-axis.The build plate is the same size as the RIFF 900.
+This is a 300x600 (RIFF 600) or 300x900 (RIFF 900/900w) size DIY printer that can be built without spending a fortune. 
+
+The upcoming RIFF 900w is a slightly wider/taller version with more room for modifications on the x-axis. The build plate is the same size as the RIFF 900. The spesifics for the 900w will be published later, but it is basically using wider extrusions for x (frame and gantry) and different cover plates and skirts. 
 
 I encourage the use of second hand parts and will not provide any complete BOM (listing specific new components/brands). 
 
@@ -31,11 +33,11 @@ The prototype/PoC for the RIFF series is the LemonBreeze. That printer is not as
 
 ## Video part 1:
 
-### Cutting extrusions:
+### Cutting extrusions 600/900 (900w TBA):
 
 - 4x2020 775mm for Y (or 1075mm for the 900 version)
 - 2x2020 450mm and 2x2040 450mm for X
-- 6x2040 340mm for Z (or optionally 370mm)
+- 6x2040 340mm for Z (or optionally 370mm for a taller)
 
 ### Blind joints and corner plates plates:
 
