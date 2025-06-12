@@ -52,14 +52,14 @@ Attach the front and rear corner plates. The front 2040 x extrusion should sit 4
 >Mount the 4 z-motor mounts with M5 10mm bolts. The motor mounts makes the frame more rigid. Check the frame again for squareness.
 
 # Video part 2
-Parts for the front and rear arms (heat bed sub assembly):
+Parts for the front and rear arms (heat bed sub assembly): (900w TBA)
 
 - Front 1x366mm 2020 extrusion and 2x625 bearings
 
 - Rear 1x322mm 2020 extrusion
 
 # Video part 3
-- The 2020 extrusion for the x axis is 440mm
+- The 2020 extrusion for the x axis is 440mm (900w TBA)
 
 > [!CAUTION]
 > On my 600 build the 2020 extrusions for the bed assembly is 2 pcs 645mm. You have to check the bed mounts on your heat bed to determine if you need longer extrusions.
