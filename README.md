@@ -1,7 +1,7 @@
 # The RIFF 600/900 DIY 3D printer
 ![CRIFF 600](RIFF600.jpg)
 
-You'll find the Youtube build series for the RIFF 600 here https://www.youtube.com/playlist?list=PLHk1C7nPAl80ZWU28OD7yWof3j6T3yG72  
+You'll find the Youtube build series about the RIFF 600 here https://www.youtube.com/playlist?list=PLHk1C7nPAl80ZWU28OD7yWof3j6T3yG72  
 You can also find the published STLs on: https://www.printables.com/model/1291703-the-riff-large-3d-printer
 
 This is a 300x600 (RIFF 600) or 300x900 (RIFF 900/900xw) size DIY printer that can be built without spending a fortune. 
