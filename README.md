@@ -37,7 +37,7 @@ The prototype/PoC for the RIFF series is the LemonBreeze. That printer is not as
 
 - 4x2020 775mm for Y (or 1075mm for the 900 version)
 - 2x2020 450mm and 2x2040 450mm for X
-- 6x2040 340mm for Z (or optionally 370mm for a taller)
+- 6x2040 340mm for Z (or optionally 370mm)
 
 ### Blind joints and corner plates plates:
 
