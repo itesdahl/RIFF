@@ -1,12 +1,14 @@
-# The RIFF 600/900 DIY 3D printer
+# The RIFF 600/900 and 900W DIY 3D printer
 ![CRIFF 600](RIFF600.jpg)
 
 You'll find the Youtube build series for the RIFF 600 here https://www.youtube.com/playlist?list=PLHk1C7nPAl80ZWU28OD7yWof3j6T3yG72  
 You can also find the published STLs on: https://www.printables.com/model/1291703-the-riff-large-3d-printer
 
-This is a 300x600 (RIFF 600) or 300x900 (RIFF 900) size DIY printer that can be built without spending a fortune. I encourage the use of second hand parts and will not provide any complete BOM (listing specific new components/brands). 
+This is a 300x600 (RIFF 600) or 300x900 (RIFF 900) size DIY printer that can be built without spending a fortune. The RIFF 900W is a slightly wider version with more room for modifications on the x-axis.The build plate is the same size as the RIFF 900.
 
-The prototype/PoC for the RIFF series is the LemonBreeze. That printer is wider and not as space efficient: https://www.youtube.com/playlist?list=PLHk1C7nPAl83ME56pqZpkaPyZSMLXAlih
+I encourage the use of second hand parts and will not provide any complete BOM (listing specific new components/brands). 
+
+The prototype/PoC for the RIFF series is the LemonBreeze. That printer is not as space efficient: https://www.youtube.com/playlist?list=PLHk1C7nPAl83ME56pqZpkaPyZSMLXAlih
 
 > [!NOTE]
 > Future plans for this project is to add the Bondtech Indx. It should be a good fit for this frame, for printing signs etc..
