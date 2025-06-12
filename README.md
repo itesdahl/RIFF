@@ -10,7 +10,7 @@ The upcoming RIFF 900xw is a slightly wider/taller version.
 
 I encourage the use of second hand parts and will not provide any complete BOM (listing specific new components/brands). 
 
-The prototype/PoC for the RIFF series is the LemonBreeze. That printer is not as space efficient: https://www.youtube.com/playlist?list=PLHk1C7nPAl83ME56pqZpkaPyZSMLXAlih
+The prototype/PoC for the RIFF series is the LemonBreeze. That printer is not as space efficient as the RIFF printers: https://www.youtube.com/playlist?list=PLHk1C7nPAl83ME56pqZpkaPyZSMLXAlih
 
 > [!NOTE]
 > Future plans for this project is to add the Bondtech Indx. It should be a good fit for this frame, for printing signs etc..
