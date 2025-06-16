@@ -6,8 +6,6 @@ You can also find the published STLs on: https://www.printables.com/model/129170
 
 This is a 300x600 (RIFF 600) or 300x900 (RIFF 900/900xw) size DIY printer that can be built without spending a fortune. 
 
-The upcoming RIFF 900xw is a slightly wider/taller version.
-
 I encourage the use of second hand parts and will not provide any complete BOM (listing specific new components/brands). 
 
 The prototype/PoC for the RIFF series is the LemonBreeze. That printer is not as space efficient as the RIFF printers: https://www.youtube.com/playlist?list=PLHk1C7nPAl83ME56pqZpkaPyZSMLXAlih
@@ -33,7 +31,7 @@ The prototype/PoC for the RIFF series is the LemonBreeze. That printer is not as
 
 ## Video part 1:
 
-### Cutting extrusions 600/900 (900xw TBA):
+### Cutting extrusions 600/900:
 
 - 4x2020 775mm for Y (or 1075mm for the 900 version)
 - 2x2020 450mm and 2x2040 450mm for X
@@ -52,14 +50,14 @@ Attach the front and rear corner plates. The front 2040 x extrusion should sit 4
 >Mount the 4 z-motor mounts with M5 10mm bolts. The motor mounts makes the frame more rigid. Check the frame again for squareness.
 
 # Video part 2
-Parts for the front and rear arms (heat bed sub assembly): (900xw TBA)
+Parts for the front and rear arms (heat bed sub assembly): 
 
 - Front 1x366mm 2020 extrusion and 2x625 bearings
 
 - Rear 1x322mm 2020 extrusion
 
 # Video part 3
-- The 2020 extrusion for the x axis is 440mm (900xw TBA)
+- The 2020 extrusion for the x axis is 440mm
 
 > [!CAUTION]
 > On my 600 build the 2020 extrusions for the bed assembly is 2 pcs 645mm. You have to check the bed mounts on your heat bed to determine if you need longer extrusions.
